@@ -4,21 +4,21 @@ background-color:#1c2833;
 
 .card{
 width:90%;
-height:60%;
+height:65%;
 text-align:center;
 box-shadow:5px 15px 15px 5px rgba(0,0,0,.3);
-padding-left:10% 2% 5% 0%;
+padding:0% 2% 5% 0%;
 background-color:black;
-margin-left:5%;
+margin-left:3.9%;
+margin-top:30%;
 }
 
 h1{
 text-align:center;
 position:center;
-margin:40% 20% 15% 20%;
+margin:0% 20% 15% 20%;
 font-size:70px;
 font-family:times;
-padding-top:15%;
 color:white;
 }
 
@@ -48,4 +48,17 @@ outline:none;
 border-radius:79px;
 background-color:black;
 }
+
+.love{
+text-align:center;
+font-size:100px;
+padding-top:10%;
+}
+
+
+
+
+
+
+
 
