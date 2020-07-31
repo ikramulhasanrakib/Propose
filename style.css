@@ -1,0 +1,51 @@
+body{
+background-color:#1c2833;
+}
+
+.card{
+width:90%;
+height:60%;
+text-align:center;
+box-shadow:5px 15px 15px 5px rgba(0,0,0,.3);
+padding-left:10% 2% 5% 0%;
+background-color:black;
+margin-left:5%;
+}
+
+h1{
+text-align:center;
+position:center;
+margin:40% 20% 15% 20%;
+font-size:70px;
+font-family:times;
+padding-top:15%;
+color:white;
+}
+
+.btn1{
+border:10px solid #2ecc71;
+color:white;
+font-size:55px;
+font-family:times;
+text-align:center;
+margin-left:3%;
+padding:2% 8%; 
+margin-bottom:4%;
+outline:none;
+border-radius:79px;
+background-color:black;
+}
+
+.btn2{
+border:10px solid #2ecc71;
+color:white;
+font-size:55px;
+font-family:times;
+text-align:center;
+padding:2% 8%;
+margin-left:3%;
+outline:none;
+border-radius:79px;
+background-color:black;
+}
+
